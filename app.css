@@ -1,0 +1,18 @@
+h1 {
+  font-family: "Cabin",sans-serif;
+  font-size: 6vw;
+  color: #0000FF;
+  text-align: right;
+}
+
+header {
+  background-color: #BCE3FF;
+  background-image:url("puppy-ball.jpg");
+  padding: 20vw 2em 0 2em;
+  background-position: center center;
+  background-size: cover;
+}
+
+h3 {
+  
+}
